@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9526fbc611d6539428e4dc6f3ed40c0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - relogio: {fileID: 6844978030416660689, guid: 2207f3e8dd1e7a143a66bf4fc1bd7359, type: 3}
+  - pipeSpawn: {instanceID: 0}
+  - logic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
